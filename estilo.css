@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+    border: 2px solid;
+}
+
+section{
+    border: 2px solid greenyellow;
+}
+
+
+.nav-bar--user-space{
+    border: 2px solid red;
+    width: 100px;
+    height: auto;
+    padding: 5px;
+
+}
+
+.nav-bar--user-image{
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100px;
+}
+
+.nav-bar--user-fd{
+    border: 2px solid aqua;
+
+}
+
